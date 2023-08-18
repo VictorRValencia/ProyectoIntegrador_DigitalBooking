@@ -1,6 +1,6 @@
 # Course project vs. this repository
 
-There are some differences between the project developed during the course and this repository
+Proyecto integrador del primer año de CTD - Digital House
 
 ## Front-end
 
